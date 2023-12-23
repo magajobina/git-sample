@@ -3,3 +3,4 @@ Hello devcolibri change dev branch this time
 Hello devcolibri
 change master branch this file
 
+Делаем изменения и на онлайн и на оффлайн репо в разных файлах
