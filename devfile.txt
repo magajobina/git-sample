@@ -1,4 +1,4 @@
-2/2
+Изменяем чет для загрузки на удаленный репозиторий путем git push
 Hello devcolibri change dev branch this time
 Hello devcolibri
 change master branch this file
