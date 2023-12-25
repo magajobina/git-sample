@@ -1,2 +1,1 @@
-Readme text
-added one more line
+Последний урок по гиту
